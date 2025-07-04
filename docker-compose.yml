@@ -1,0 +1,13 @@
+services:
+  api:
+    # Constrói a imagem a partir do Dockerfile no diretório atual (.)
+    build: .
+    # Nome do container para fácil identificação
+    container_name: imersao_devops_api
+    # Mapeia a porta 8000 do host para a porta 8000 do container
+    ports:
+      - '8000:8000'
+    # Mapeia o diretório atual do host para o diretório /app no container
+    # Isso permite o live-reload e a persistência do banco de dados SQLite
+    volumes:
+      - ./:/app
