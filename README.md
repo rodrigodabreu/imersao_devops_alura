@@ -124,7 +124,8 @@ I am a Brazilian software engineer with experience in Java, Spring Boot, SQL Ser
 My current career goal is to secure an international position as a Java Back-end Developer, where I can apply my technical expertise, contribute to distributed teams, and continue growing in modern software engineering practices.
 
 ### Contact
-* LinkedIn: Rodrigo Abreu
-* GitHub: rodrigodabreu
+* [LinkedIn](https://www.linkedin.com/in/rodabreu/)
+* [GitHub](https://github.com/rodrigodabreu/)
+* [Instagram](https://www.instagram.com/rodabreu/?hl=en)
 
 
