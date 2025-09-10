@@ -81,7 +81,7 @@ docker run -p 8080:8080 my-app
 
 ```
 
-Acess the API or Application end-points at http://localhost:5000
+Acess the API or Application end-points at http://localhost:8080
 
 To tear down the environment:
 ```bash
